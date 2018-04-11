@@ -10,6 +10,7 @@ public class Operacions {
 		for (int i = 1; i < numero + 1; i++) {
 			f = f * i;
 		}
+
 		return f;
 	}
 
